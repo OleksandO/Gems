@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"board_find_matches",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"board_find_matches",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
